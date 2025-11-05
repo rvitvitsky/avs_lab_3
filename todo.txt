@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 первак 3
 первак
 первак 4
-=======
 первак 5
-<<<<<<< HEAD
->>>>>>> 9426fe3 (add todo.txt 5)
-=======
 первак
->>>>>>> a434691 (Feat: third task done)
+feature1 modification
+feature2 modification
